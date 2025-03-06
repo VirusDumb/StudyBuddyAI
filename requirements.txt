@@ -1,0 +1,12 @@
+agno
+streamlit
+sqlalchemy
+groq
+google-genai
+duckduckgo-search
+youtube_transcript_api
+lancedb
+pypdf
+crawl4ai
+Wikipedia
+
